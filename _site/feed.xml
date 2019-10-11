@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://bharathjoshi.github.io/bharathjoshi//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://bharathjoshi.github.io/bharathjoshi//feed.xml" rel="self" type="application/atom+xml" /><link href="https://bharathjoshi.github.io/bharathjoshi//" rel="alternate" type="text/html" /><updated>2019-10-11T18:56:47+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//</id><title type="html">Bharath Joshi</title><subtitle>Questions are more important than Answers!!</subtitle><entry><title type="html">Virtual Mouse</title><link href="https://bharathjoshi.github.io/bharathjoshi//virtual-mouse/" rel="alternate" type="text/html" title="Virtual Mouse" /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//virtual-mouse</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//virtual-mouse/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;This project can help one to trigger cursor movements without using an actual mouse. It is completely written using python and opencv modules. It also has a right click and left click functionalities but one shall be quick enough to remove hand to avoid multiple clicks.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enabling timer to avoid multiple clickings.&lt;/li&gt;
+  &lt;li&gt;Adding drag option.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=Virtual-Mouse&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="python" /><category term="opencv" /><category term="machine learning" /><category term="web camera" /><summary type="html">Mouse which you can move with your finger movements and camera.</summary></entry><entry><title type="html">Online Store</title><link href="https://bharathjoshi.github.io/bharathjoshi//online-store/" rel="alternate" type="text/html" title="Online Store" /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//online-store</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//online-store/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;This project can be used to display products and enable users to buy them. It was built using ReactJs.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Taking data/products from api.&lt;/li&gt;
+  &lt;li&gt;Enabling paytm/paypal payment gateway.&lt;/li&gt;
+  &lt;li&gt;Enabling storage of cart for users using firebase or django.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=Mini_Online_Store&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="React" /><category term="JSX" /><category term="Javascript" /><category term="API" /><summary type="html">Basic online store which takes data/products and displays it</summary></entry><entry><title type="html">Mail Bot</title><link href="https://bharathjoshi.github.io/bharathjoshi//gmail-bot/" rel="alternate" type="text/html" title="Mail Bot" /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//gmail-bot</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//gmail-bot/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;Using this project one can send mails to any other person or oneself. One can also delete messages from a person or from a certain mailbox.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deleting messages that are received at a particular time.&lt;/li&gt;
+  &lt;li&gt;Sending a message at a particular time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=MAIL_BOT&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="React" /><category term="JSX" /><category term="Javascript" /><category term="API" /><summary type="html">Automatic sending/deleting mails based on some attribute</summary></entry><entry><title type="html">Basic Encryption and Decryption</title><link href="https://bharathjoshi.github.io/bharathjoshi//encryption/" rel="alternate" type="text/html" title="Basic Encryption and Decryption " /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//encryption</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//encryption/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;This project can be used to encrypt strings of any length and decrypt it using the decryptor.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Try to encrypt images and audio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=python_project_encryption_and_decryption&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="python" /><category term="public/private key" /><category term="Decryption" /><category term="Encryption" /><summary type="html">Based on public key cryptography / asymmetric cryptography</summary></entry><entry><title type="html">Chat App</title><link href="https://bharathjoshi.github.io/bharathjoshi//chat-app/" rel="alternate" type="text/html" title="Chat App" /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//chat-app</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//chat-app/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;With the help of this project one can chat with one’s friends. The frontend was built using React-Native and the backend using firebase.&lt;/p&gt;
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enabling groups.&lt;/li&gt;
+  &lt;li&gt;Functionality to check whether the other person is online/typing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=chat&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="React Native" /><category term="Firebase" /><category term="Javascript" /><summary type="html">An app to chat with your friends</summary></entry><entry><title type="html">Assignment Interface</title><link href="https://bharathjoshi.github.io/bharathjoshi//assignment-interface/" rel="alternate" type="text/html" title="Assignment Interface" /><published>2019-10-07T00:00:00+05:30</published><updated>2019-10-07T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//assignment-interface</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//assignment-interface/">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;This project can be used to make assignments, grade them and baically have an interfave between students and teachers. The frontend was built using ReactJs and the backend using Django&lt;/p&gt;
+
+&lt;h2 id=&quot;next-update&quot;&gt;Next Update&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Completing the grading interface.&lt;/li&gt;
+  &lt;li&gt;Adding separate home pages for students and teachers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt; 
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=bharathjoshi&amp;amp;repo=Assignment-Interface&amp;amp;type=watch&amp;amp;size=large&amp;amp;v=2&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;  
+&lt;/center&gt;</content><category term="React" /><category term="Django" /><category term="Javascript" /><category term="Python" /><summary type="html">An iterface between students and teachers for assignments</summary></entry><entry><title type="html">All people living together.</title><link href="https://bharathjoshi.github.io/bharathjoshi//code-highlighting-post/" rel="alternate" type="text/html" title="All people living together." /><published>2013-08-16T00:00:00+05:30</published><updated>2013-08-16T00:00:00+05:30</updated><id>https://bharathjoshi.github.io/bharathjoshi//code-highlighting-post</id><content type="html" xml:base="https://bharathjoshi.github.io/bharathjoshi//code-highlighting-post/">&lt;Center&gt;People Living together in the same city&lt;Center&gt;
+
+Firstly there is no city to accommodate all the people on earth . The city with most population (Shanghai ) has a population of 26.3 million compare to world population of 7.53 billion which is just 0.34%
+
+So now let us assume all the people are living in the same city(the earth being a city) i.e we’ll all be governed by the same government, will have same price for all goods and many more things that I’ll be discussing .
+
+The foremost problem all the people will be facing is to choose what type of political system the city needs i.e. democracy, oligarchy or autocracy. Mostly the decision would be taken by the representatives of the earlier present countries. So the first face-off occurs . Representatives from democratic countries would want a democratic system , other countries would want dictatorship , others would ask for a constitutional monarchy under some royal family, some others would want some other type of system .
+
+So let us thing the majority wins, so the form of governance would be a democratic system. So now desire and lust for power comes into everyone’s mind. Leaders from different parties will start targeting people based on their nationality (people in the name of patriotism will start supporting the party which existed in their countries) religion and language . Parties with similar ideology towards religion and language would form alliances. People would start forming groups, differences would be created . People from one group will start targeting people of other groups . Many riots will take place . The whole point of living together goes waste.
+
+So let us now assume some party is elected (setting up elections would be liking boiling the ocean). The elected party will have a big task to satisfy all the people . The first thing government should do is to set the price of goods in the market .As all the people are governed by same government , the prices of all goods and services should be same to all the people (large differences would be a failure of government). So the people living in latitude 19.0154° S, 29.1 (earlier Zimbabwe) will have to pay the same price for a litre of petrol as the people in latitude 6.4238° N, 66.5897° W (earlier Venezuela) . The earlier price for a litre of petrol in Zimbabwe was around $3.32 and in Venezuela was $0.029 .So let us think the government will set a price of $1.67 which will be highly celebrated by people of Zimbabwe but at the same time will be heavily opposed by people of Venezuela. Other political parties would happily take this as an opportunity for defaming the elected party. Don’t really know what will happen with the economy (Economists please help !!) .
+
+Government should provide everyone with food, education, shelter and any more things . The sector of people who already have all this facilities would expect more from the government while people who don’t have the facilities would expect the government to provide them minimum stuff . They would be no balanced development . People from developed areas would want to show more dominance which will not be liked by other people. Fair distribution of natural resources equal would be a difficult task. Again internal disturbance increase and people would start fighting for equality or power. People will start fighting for a language , religion or a sport.
+
+Different group of people will ask for their liberation and ask for a new city. Eventually everyone will ask for their own city . Cities will become countries and they would be no common city.
+
+The only positive thing that would happen would be that people now will become more patriotic and try to develop their country .
+&lt;/Center&gt;&lt;/Center&gt;</content><category term="Government" /><category term="Economy" /><summary type="html">What will happen if all the people of panet earth live in the same city?</summary></entry></feed>
